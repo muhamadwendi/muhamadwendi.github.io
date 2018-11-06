@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+	font-weight: bold;
+	font-size: 36px;
+}.data{
+	float: left;
+	font-size: 17px;
+	margin-left: 20px;
+}footer{
+	text-align: center;
+	background: #b8860b;
+	font-size: 17px;
+	padding: 3px;
+}table{
+	background: #b8860b;
+	width :100%;
+	height: 3%;
+}.tengah{
+	text-align: center;
+	padding: 10px;
+}.kanan{
+	float: left;
+	margin-left: 50px;
+img{
+	margin-left: 50px;
+	width: 450px;
+	height: 320px;
+}
